@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'NeTwitter',
     'rest_framework',
+    'rest_framework.authtoken',
     'djoser',
 ]
 
